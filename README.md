@@ -1,4 +1,15 @@
-# Getting Started with Create React App
+# TripGo
+- The "BOOK Now" button allows consumers to select one or more packages from the list.
+
+- When the user selects the BOOK NOW option, they will be taken to a new page where they must fill out a form with their information in order to complete their order.
+
+- All user information will be published on the "My Booking" tab.
+
+- To finalise the order, the user needs first join up for a Google account.
+
+- Users can send messages to the "Contact us" section with their questions.
+
+- Live Site:-  https://tripgo5.netlify.app/home#home
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
