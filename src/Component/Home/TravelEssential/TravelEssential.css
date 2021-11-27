@@ -1,0 +1,18 @@
+@import url("https://fonts.googleapis.com/css2?family=Rancho&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Lora&display=swap");
+h1 {
+    font-family: "Rancho", cursive;
+    letter-spacing: 6px;
+}
+
+h3 {
+    font-family: "Lora", serif;
+    font-weight: bolder;
+}
+
+.custom {
+    width: 400px;
+    height: 400px;
+    align-items: center;
+    justify-content: center;
+}
